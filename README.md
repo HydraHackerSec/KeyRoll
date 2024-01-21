@@ -1,17 +1,7 @@
 # KeyRoll - Python Keylogger for Red Teaming
 
-```ascii
- ██ ▄█▀▓█████▓██   ██▓ ██▀███   ▒█████   ██▓     ██▓    
- ██▄█▒ ▓█   ▀ ▒██  ██▒▓██ ▒ ██▒▒██▒  ██▒▓██▒    ▓██▒    
-▓███▄░ ▒███    ▒██ ██░▓██ ░▄█ ▒▒██░  ██▒▒██░    ▒██░    
-▓██ █▄ ▒▓█  ▄  ░ ▐██▓░▒██▀▀█▄  ▒██   ██░▒██░    ▒██░    
-▒██▒ █▄░▒████▒ ░ ██▒▓░░██▓ ▒██▒░ ████▓▒░░██████▒░██████▒
-▒ ▒▒ ▓▒░░ ▒░ ░  ██▒▒▒ ░ ▒▓ ░▒▓░░ ▒░▒░▒░ ░ ▒░▓  ░░ ▒░▓  ░
-░ ░▒ ▒░ ░ ░  ░▓██ ░▒░   ░▒ ░ ▒░  ░ ▒ ▒░ ░ ░ ▒  ░░ ░ ▒  ░
-░ ░░ ░    ░   ▒ ▒ ░░    ░░   ░ ░ ░ ░ ▒    ░ ░     ░ ░   
-░  ░      ░  ░░ ░        ░         ░ ░      ░  ░    ░  ░
-              ░ ░                                       
-```
+![Keyroll-removebg-preview](https://github.com/HydraHackerSec/KeyRoll/assets/157287105/888b195e-0958-47ad-ae12-9a519b2bc40f)
+
 
 **Disclaimer: L'uso di KeyRoll è consentito esclusivamente a fini educativi e nel rispetto delle leggi vigenti. Gli sviluppatori di KeyRoll declinano ogni responsabilità per utilizzi impropri o illegali del software.**
 
