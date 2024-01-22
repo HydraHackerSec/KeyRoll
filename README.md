@@ -7,7 +7,7 @@
 
 ## Descrizione
 
-KeyRoll è un keylogger sviluppato in Python come parte di un progetto scolastico per il corso di Red Teaming presso la nostra scuola di Cyber Security. Il software è stato creato da due studenti, [Carioni Federico](https://github.com/troclea) e [Torchia Vincenzo](https://github.com/BinxSake), con la collaborazione di [Benedetti Denis](https://github.com/DB02Archery) e Mazzola Giorgio
+KeyRoll è un keylogger sviluppato in Python come parte di un progetto scolastico per il corso di Red Teaming presso la nostra scuola di Cyber Security. Il software è stato creato da due studenti, [Carioni Federico](https://github.com/troclea) e [Torchia Vincenzo](https://github.com/BinxSake), con la collaborazione di [Benedetti Denis](https://github.com/DB02Archery) e Mazzola Giorgio.
 
 ## Funzionalità Principali
 
